@@ -1,0 +1,10 @@
+aiohttp
+beautifulsoup4
+langid
+matplotlib
+nltk
+numpy
+pandas
+requests
+scikit-learn
+shap
